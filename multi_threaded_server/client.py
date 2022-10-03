@@ -3,6 +3,7 @@
 # Himanshu Tripathi
 
 # tested on ubuntu 22.04.01 LTS
+# tested on local sysytem 
 
 # client for echo server app
 

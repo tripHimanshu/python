@@ -3,6 +3,7 @@
 # Himanshu Tripathi
 
 # tested on ubuntu 22.04.01 LTS
+# tested on local system 
 
 # multi-threaded server (TCP Socket)
 
@@ -68,4 +69,3 @@ if __name__ == "__main__":
         print("server closed using keyboard interrupt")
         server.close()
     sys.exit()
-    

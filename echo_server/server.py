@@ -3,6 +3,7 @@
 # Himanshu Tripathi
 
 # tested on ubuntu 22.04.01 LTS
+# tested on local system 
 
 # echo server (TCP socket)
 
